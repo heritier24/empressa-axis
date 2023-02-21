@@ -57,7 +57,7 @@
           <h1>Bettter digital experience with Empressa Axis</h1>
           <h2>We are team of talented designers making websites and software Development with Good Heart</h2>
           <div>
-            <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            <a href="#about" class="btn-get-started scrollto">About Us</a>
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img">
